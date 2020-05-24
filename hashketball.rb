@@ -232,3 +232,5 @@ def most_points_scored
   end
   puts most_points_player_name
 end
+
+most_points_scored
